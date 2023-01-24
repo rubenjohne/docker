@@ -1,0 +1,7 @@
+numpy==1.18.5
+pandas==0.24.1
+pandas-datareader==0.9.0
+pandas-profiling==2.9.0
+pandocfilters==1.4.2
+TA-Lib==0.4.21
+yfinance==0.1.69 
